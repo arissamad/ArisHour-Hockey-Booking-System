@@ -1,0 +1,17 @@
+This app allows users to pre-pay, and use their balance to sign up for sessions (in this case, ice hockey practice time.)
+It is a Google App, and uses GWT.
+
+Roles: Admin, User
+
+Admin Users are able to:
+1) Set up sessions.
+2) Edit any data.
+
+Normal users are able to
+1) Log in with Facebook
+2) See their pre-pay balance and transaction history
+3) Sign up for specific sessions
+
+Update History
+--------------
+Oct 10, 2011 - Created
